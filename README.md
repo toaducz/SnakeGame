@@ -1,1 +1,1 @@
-Snake Game đơn giản với PyGAme
+Snake Game đơn giản với PyGame
